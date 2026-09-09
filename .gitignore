@@ -47,3 +47,6 @@ supabase/.temp/
 
 # TypeScript build info
 *.tsbuildinfo
+
+# LearnGitBranching (built locally, served by backend)
+learnGitBranching/node_modules
